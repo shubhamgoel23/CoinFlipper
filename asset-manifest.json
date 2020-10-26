@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CoinFlipper/static/css/main.be252dd2.chunk.css",
+    "main.js": "/CoinFlipper/static/js/main.63e832ad.chunk.js",
+    "main.js.map": "/CoinFlipper/static/js/main.63e832ad.chunk.js.map",
+    "runtime-main.js": "/CoinFlipper/static/js/runtime-main.55f5719c.js",
+    "runtime-main.js.map": "/CoinFlipper/static/js/runtime-main.55f5719c.js.map",
+    "static/js/2.ae1c3297.chunk.js": "/CoinFlipper/static/js/2.ae1c3297.chunk.js",
+    "static/js/2.ae1c3297.chunk.js.map": "/CoinFlipper/static/js/2.ae1c3297.chunk.js.map",
+    "static/js/3.32c14c31.chunk.js": "/CoinFlipper/static/js/3.32c14c31.chunk.js",
+    "static/js/3.32c14c31.chunk.js.map": "/CoinFlipper/static/js/3.32c14c31.chunk.js.map",
+    "index.html": "/CoinFlipper/index.html",
+    "static/css/main.be252dd2.chunk.css.map": "/CoinFlipper/static/css/main.be252dd2.chunk.css.map",
+    "static/js/2.ae1c3297.chunk.js.LICENSE.txt": "/CoinFlipper/static/js/2.ae1c3297.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55f5719c.js",
+    "static/js/2.ae1c3297.chunk.js",
+    "static/css/main.be252dd2.chunk.css",
+    "static/js/main.63e832ad.chunk.js"
+  ]
+}
