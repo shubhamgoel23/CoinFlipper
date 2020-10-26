@@ -1,6 +1,6 @@
 {
-  "homepage": "http://shubhamgoel23.github.io/my-app",
-  "name": "roll-dice",
+  "homepage": "http://shubhamgoel23.github.io/CoinFlipper",
+  "name": "coin-flipper",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
